@@ -33,7 +33,7 @@
     <string name="yes">Oui</string>
     <string name="create_backup">Créer une sauvegarde</string>
     <string name="alert">Alerte</string>
-    <string name="copy_keypharse_msg">Copiez cette phrase clé qui sera utilisée pour récupérer cette sauvegarde, elle ne sera pas fournie par KeyPass Encore une fois, avez-vous copié ou noté \?</string>
+    <string name="copy_keypharse_msg">Copiez cette phrase clé qui sera utilisée pour récupérer cette sauvegarde, elle ne sera pas fournie par KeyPass Encore une fois, avez-vous copié ou noté ?</string>
     <string name="help">Aider</string>
     <string name="security">Sécurité</string>
     <string name="account_name">Nom du compte</string>
@@ -55,7 +55,7 @@
     <string name="enter_keyphrase">Entrez la phrase clé</string>
     <string name="restore">Restaurer</string>
     <string name="keyphrase_restore_info">Veuillez entrer la phrase clé que vous obtenez lorsque vous avez sauvegardé</string>
-    <string name="custom_generated_keyphrase_info">Voulez-vous créer votre propre phrase clé pour les sauvegardes ou dois-je générer pour vous \?</string>
+    <string name="custom_generated_keyphrase_info">Voulez-vous créer votre propre phrase clé pour les sauvegardes ou dois-je générer pour vous ?</string>
     <string name="ascending">Ascendant</string>
     <string name="descending">Descendant</string>
     <string name="str_continue">Continuer</string>
@@ -63,6 +63,8 @@
     <string name="enter_password">Entrer le mot de passe</string>
     <string name="create_password">Créer un mot de passe</string>
     <string name="confirm_password">Confirmez le mot de passe</string>
+    <string name="create_password_description">Choisissez un mot de passe pour sécuriser votre application</string>
+    <string name="confirm_password_description">Veuillez confirmer votre mot de passe pour sécuriser l\'application</string>
     <string name="incorrect_password">Mot de passe incorrect</string>
     <string name="password_no_match">Le mot de passe ne correspond pas</string>
     <string name="auto_backup_desc">Vos comptes seront sauvegardés chaque fois qu\'un compte sera ajouté ou modifié</string>
@@ -81,11 +83,24 @@
     <string name="password_set_from_settings">Veuillez d\'abord définir le mot de passe de votre appareil à partir des paramètres du téléphone</string>
     <string name="authentication_failed">Authentification échouée</string>
     <string name="authentication_error">Erreur d\'authentification %s</string>
-    <string name="delete_account_title">Es-tu sûr \?</string>
+    <string name="delete_account_title">Es-tu sûr ?</string>
     <string name="change_password_length">Modifier la longueur du mot de passe</string>
     <string name="default_password_length">Longueur du mot de passe par défaut</string>
     <string name="secret_key">Clef secrète</string>
     <string name="keypass_backup">Backup KeyPass</string>
     <string name="google_backup">Google Backup</string>
     <string name="generate_qr_code">Exportation</string>
+    <string name="about_us">À propos de nous</string>
+    <string name="about_us_desc">À propos de nous Desc</string>
+    <string name="app_developer_github">Github</string>
+    <string name="keepass_backup">Sauvegarde de KeePass</string>
+    <string name="app_desc">Gestionnaire de mot de passe Open-source &amp; offline. Conservez, gérez, prenez le contrôle en toute sécurité.</string>
+    <string name="app_developer">Developer</string>
+    <string name="app_developer_x">X (avant Twitter)</string>
+    <string name="app_developer_linkedin">LinkedIn</string>
+    <string name="source_code">Source Code</string>
+    <string name="keepass_backup_desc">Choisissez le fichier KeePass CSV pour importer</string>
+    <string name="invalid_secret_key">Format secret invalide</string>
+    <string name="invalid_csv_file">CSV non valide Fichier</string>
+    <string name="file_not_found">Fichier non trouvé (veuillez essayer de nouveau)</string>
 </resources>

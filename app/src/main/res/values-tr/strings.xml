@@ -33,7 +33,7 @@
     <string name="yes">Evet</string>
     <string name="create_backup">Yedek Oluştur</string>
     <string name="alert">Uyarı</string>
-    <string name="copy_keypharse_msg">Bu Anahtar İfadeyi Kopyalayın, bu yedeği kurtarmak için kullanılacaktır, bu KeyPass tarafından tekrar sağlanmayacaktır, kopyaladınız mı veya not aldınız mı\?</string>
+    <string name="copy_keypharse_msg">Bu Anahtar İfadeyi Kopyalayın, bu yedeği kurtarmak için kullanılacaktır, bu KeyPass tarafından tekrar sağlanmayacaktır, kopyaladınız mı veya not aldınız mı?</string>
     <string name="help">Yardım</string>
     <string name="security">Güvenlik</string>
     <string name="account_name">Hesap Adı</string>
@@ -65,6 +65,8 @@
     <string name="enter_password">Şifreyi Gir</string>
     <string name="create_password">Şifre Oluştur</string>
     <string name="confirm_password">Şifreyi Onayla</string>
+    <string name="create_password_description">Uygulamanızı güvenceye almak için bir şifre seçin</string>
+    <string name="confirm_password_description">Uygulamayı güvenceye almak için lütfen şifrenizi onaylayın</string>
     <string name="incorrect_password">Yanlış Şifre</string>
     <string name="password_no_match">Şifre uyuşmuyor</string>
     <string name="auto_backup_desc">Hesap eklendiğinde veya değiştirildiğinde hesaplarınız yedeklenecektir</string>
@@ -89,4 +91,17 @@
     <string name="keypass_backup">KeyPass Yedekleme</string>
     <string name="google_backup">Google Yedekleme</string>
     <string name="generate_qr_code">İhracat İhracatı</string>
+    <string name="about_us">Hakkımızda</string>
+    <string name="about_us_desc">Hakkında</string>
+    <string name="app_developer">Geliştirici</string>
+    <string name="keepass_backup">KeePass Backup</string>
+    <string name="keepass_backup_desc">KeePass CSV dosyasını ithal etmek için seçin</string>
+    <string name="app_desc">Açık kaynak ve çevrimdışı şifre yöneticisi. Mağaza, yönetmek, güvenli bir şekilde kontrol edin.</string>
+    <string name="app_developer_x">X (muhtemelen Twitter)</string>
+    <string name="app_developer_linkedin">LinkedIn</string>
+    <string name="source_code">Kaynak Kodu</string>
+    <string name="app_developer_github">Github</string>
+    <string name="invalid_csv_file">Invalid CSV Dosya</string>
+    <string name="file_not_found">File bulunamadı (Lütfen tekrar deneyin)</string>
+    <string name="invalid_secret_key">Invalid secret key format</string>
 </resources>

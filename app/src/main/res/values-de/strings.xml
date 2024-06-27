@@ -19,9 +19,9 @@
     <string name="last_backup_date">Letzte Sicherung: %s</string>
     <string name="copied_to_clipboard">In die Zwischenablage kopiert</string>
     <string name="login_to_enter_keypass">Melden Sie sich an, um KeyPass zu betreten</string>
-    <string name="delete_account_title">Bist du dir sicher\?</string>
+    <string name="delete_account_title">Bist du dir sicher?</string>
     <string name="alert_black_secret_key">Bitte geben Sie den geheimen Schlüssel ein</string>
-    <string name="delete_account_msg">Möchten Sie diesen Eintrag wirklich löschen\? Er kann nicht wiederhergestellt werden</string>
+    <string name="delete_account_msg">Möchten Sie diesen Eintrag wirklich löschen? Er kann nicht wiederhergestellt werden</string>
     <string name="cancel">Stornieren</string>
     <string name="feedback_to_keypass">Feedback zu KeyPass</string>
     <string name="share_keypass">Teilen Sie KeyPass</string>
@@ -33,7 +33,7 @@
     <string name="yes">Ja</string>
     <string name="create_backup">Ein Backup erstellen</string>
     <string name="alert">Alarm</string>
-    <string name="copy_keypharse_msg">Kopieren Sie diesen Schlüsselsatz. Dieser wird zur Wiederherstellung dieses Backups verwendet. Dieser wird nicht von KeyPass bereitgestellt. Haben Sie ihn noch einmal kopiert oder aufgeschrieben\?</string>
+    <string name="copy_keypharse_msg">Kopieren Sie diesen Schlüsselsatz. Dieser wird zur Wiederherstellung dieses Backups verwendet. Dieser wird nicht von KeyPass bereitgestellt. Haben Sie ihn noch einmal kopiert oder aufgeschrieben?</string>
     <string name="help">Hilfe</string>
     <string name="security">Sicherheit</string>
     <string name="account_name">Kontobezeichnung</string>
@@ -57,7 +57,7 @@
     <string name="authentication_failed">Authentifizierung fehlgeschlagen</string>
     <string name="authentication_error">Authentifizierungsfehler %s</string>
     <string name="scan_password">Passwort scannen</string>
-    <string name="custom_generated_keyphrase_info">Möchten Sie Ihre eigene Schlüsselphrase für Backups erstellen oder soll ich diese für Sie generieren\?</string>
+    <string name="custom_generated_keyphrase_info">Möchten Sie Ihre eigene Schlüsselphrase für Backups erstellen oder soll ich diese für Sie generieren?</string>
     <string name="enter_keyphrase">Schlüsselwort eingeben</string>
     <string name="back">Zurück</string>
     <string name="enabled">Ermöglicht</string>
@@ -74,6 +74,8 @@
     <string name="ascending">Aufsteigend</string>
     <string name="create_password">Passwort erstellen</string>
     <string name="confirm_password">Bestätige das Passwort</string>
+    <string name="create_password_description">Wählen Sie ein Passwort, um Ihre App zu sichern</string>
+    <string name="confirm_password_description">Bitte bestätigen Sie Ihr Passwort, um die App zu sichern</string>
     <string name="incorrect_password">Falsches Passwort</string>
     <string name="change_app_password">App-Passwort ändern</string>
     <string name="alert_invalid_keyphrase">Bitte geben Sie einen gültigen Schlüsselsatz ein</string>
@@ -88,4 +90,17 @@
     <string name="keypass_backup">KeyPass Backup</string>
     <string name="google_backup">Google Backup</string>
     <string name="generate_qr_code">Ausfuhr</string>
+    <string name="app_developer_x">X (vorher Twitter)</string>
+    <string name="app_developer_linkedin">LinkedIn</string>
+    <string name="keepass_backup">KeePass Backup</string>
+    <string name="app_desc">Open-Source &amp; Offline-Passwort-Manager. Speichern, verwalten, die Kontrolle sicher übernehmen.</string>
+    <string name="about_us">Über uns</string>
+    <string name="about_us_desc">Über uns Desc</string>
+    <string name="app_developer">Entwickler</string>
+    <string name="source_code">Quelle Code</string>
+    <string name="app_developer_github">Github</string>
+    <string name="keepass_backup_desc">Wählen Sie KeePass CSV-Datei zum Import</string>
+    <string name="invalid_csv_file">Invalid CSV Datei</string>
+    <string name="file_not_found">Datei nicht gefunden (bitte nochmal versuchen)</string>
+    <string name="invalid_secret_key">Invalides geheimes Schlüsselformat</string>
 </resources>

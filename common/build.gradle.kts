@@ -36,12 +36,12 @@ android {
 dependencies {
 
     api("androidx.core:core-ktx:1.13.1")
-    api("androidx.appcompat:appcompat:1.6.1")
+    api("androidx.appcompat:appcompat:1.7.0")
 
     // apache common codec
-    implementation("commons-codec:commons-codec:1.16.1")
+    implementation("commons-codec:commons-codec:1.17.0")
 
-    //Androidx Security
+    // Androidx Security
     implementation("androidx.security:security-crypto:1.1.0-alpha06")
 
     api("androidx.documentfile:documentfile:1.0.1")
@@ -59,23 +59,21 @@ dependencies {
 
     api("androidx.work:work-runtime-ktx:2.8.1")
 
-    api("com.google.android.material:material:1.9.0")
+    api("com.google.android.material:material:1.12.0")
 
-    implementation("com.google.code.gson:gson:2.10.1")
+    implementation("com.google.code.gson:gson:2.11.0")
 
-    api("com.google.code.gson:gson:2.10.1")
+    api("com.google.code.gson:gson:2.11.0")
 
-    api("androidx.datastore:datastore-preferences:1.0.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
+    api("androidx.datastore:datastore-preferences:1.1.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.1")
 
     // Test
-    implementation("androidx.test.ext:junit-ktx:1.1.5")
-    androidTestApi("androidx.test:rules:1.5.0")
+    implementation("androidx.test.ext:junit-ktx:1.2.1")
+    androidTestApi("androidx.test:rules:1.6.1")
 
     implementation("net.zetetic:android-database-sqlcipher:4.5.4")
     implementation("androidx.sqlite:sqlite:2.3.1")
 
     api("com.opencsv:opencsv:5.8")
-
-
 }

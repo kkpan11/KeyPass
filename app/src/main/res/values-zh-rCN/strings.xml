@@ -10,7 +10,7 @@
     <!-- Sync Preferences -->
     <string name="credentials_backups">备份</string>
     <string name="credentials_backups_desc">把密码备份到外部存储</string>
-    <string name="restore_credentials">恢复备份</string>
+    <string name="restore_credentials">导入凭据</string>
     <string name="restore_credentials_desc">从备份中恢复</string>
     <string name="send_feedback">发送反馈</string>
     <string name="send_feedback_desc">报告技术问题或建议新功能</string>
@@ -39,7 +39,7 @@
     <string name="yes">确定</string>
     <string name="create_backup">创建备份</string>
     <string name="alert">警告</string>
-    <string name="copy_keypharse_msg">请立即复制或在纸上写下下面的密码。KeyPass 将不会再次显示该密码\?</string>
+    <string name="copy_keypharse_msg">请立即复制或在纸上写下下面的密码。KeyPass 将不会再次显示该密码?</string>
     <string name="help">帮助</string>
     <string name="security">安全</string>
     <string name="account_name">账户名称</string>
@@ -71,6 +71,8 @@
     <string name="enter_password">请输入密码</string>
     <string name="create_password">创建密码</string>
     <string name="confirm_password">确认密码</string>
+    <string name="create_password_description">选择一个密码来保护您的应用程序</string>
+    <string name="confirm_password_description">请确认您的密码以保护应用程序</string>
     <string name="incorrect_password">密码错误</string>
     <string name="password_no_match">密码不匹配</string>
     <string name="auto_backup_desc">每当添加或修改帐户时，都会备份您的帐户</string>
@@ -89,4 +91,17 @@
     <string name="keypass_backup">B. 重要项目</string>
     <string name="google_backup">谷歌 Backup</string>
     <string name="generate_qr_code">出口</string>
+    <string name="about_us">大约100 000</string>
+    <string name="keepass_backup">KeePas Backup</string>
+    <string name="keepass_backup_desc">Choose KeePass CSV文档</string>
+    <string name="app_desc">开放源码和密码管理员。 储存、管理、控制.</string>
+    <string name="about_us_desc">问 题</string>
+    <string name="app_developer">投 蓬</string>
+    <string name="app_developer_x">X(原为Twitter)</string>
+    <string name="app_developer_linkedin">LinkedIn</string>
+    <string name="source_code">资料来源:《刑法》</string>
+    <string name="app_developer_github">Github</string>
+    <string name="invalid_secret_key">无效的 secret 密钥格式</string>
+    <string name="invalid_csv_file">无效的 CSV 文件</string>
+    <string name="file_not_found">未找到文件（请重试）</string>
 </resources>

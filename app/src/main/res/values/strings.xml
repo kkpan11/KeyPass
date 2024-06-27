@@ -81,6 +81,8 @@
     <string name="enter_password">Enter Password</string>
     <string name="create_password">Create Password</string>
     <string name="confirm_password">Confirm Password</string>
+    <string name="create_password_description">Choose a password to secure your app</string>
+    <string name="confirm_password_description">Please confirm your password to secure the app</string>
     <string name="incorrect_password">Incorrect Password</string>
     <string name="password_no_match">The password did not match</string>
     <string name="auto_backup_desc">Your accounts will be backed up whenever account is added or modified</string>
@@ -108,5 +110,8 @@
     <string name="keepass_backup">KeePass Backup</string>
     <string name="keepass_backup_desc">Choose KeePass CSV file to import</string>
     <string name="generate_qr_code">Export</string>
+    <string name="invalid_secret_key">Invalid secret key format</string>
+    <string name="invalid_csv_file">Invalid CSV File</string>
+    <string name="file_not_found">File not found (please try again)</string>
 
 </resources>

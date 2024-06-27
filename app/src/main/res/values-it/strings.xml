@@ -20,7 +20,7 @@
     <string name="copied_to_clipboard">Copied a clipboard</string>
     <string name="login_to_enter_keypass">Accedi per inserire KeyPass</string>
     <string name="last_backup_date">Ultimo backup: %s</string>
-    <string name="delete_account_title">Sei sicuro\?</string>
+    <string name="delete_account_title">Sei sicuro?</string>
     <string name="delete_account_msg">Vuoi davvero eliminare questa voce, non può essere ripristinato</string>
     <string name="cancel">Annulla</string>
     <string name="feedback_to_keypass">Feedback a KeyPass</string>
@@ -33,7 +33,7 @@
     <string name="yes">Sì</string>
     <string name="create_backup">Crea backup</string>
     <string name="alert">Avviso</string>
-    <string name="copy_keypharse_msg">Copia Questo Key Phrase sarà utilizzato per recuperare questo backup, questo non sarà fornito da KeyPass Ancora una volta, hai copiato o scritto giù\?</string>
+    <string name="copy_keypharse_msg">Copia Questo Key Phrase sarà utilizzato per recuperare questo backup, questo non sarà fornito da KeyPass Ancora una volta, hai copiato o scritto giù?</string>
     <string name="help">Aiuto</string>
     <string name="security">Sicurezza</string>
     <string name="account_name">Nome del conto</string>
@@ -56,7 +56,7 @@
     <string name="enter_keyphrase">Inserisci Keyphrase</string>
     <string name="restore">Ripristino</string>
     <string name="keyphrase_restore_info">Si prega di inserire keyphrase si ottiene quando si backup</string>
-    <string name="custom_generated_keyphrase_info">Vuoi creare la tua keyphrase per i backup o dovrei generare per te\?</string>
+    <string name="custom_generated_keyphrase_info">Vuoi creare la tua keyphrase per i backup o dovrei generare per te?</string>
     <string name="ascending">Finanziamenti</string>
     <string name="descending">Discussione</string>
     <string name="str_continue">Continua</string>
@@ -64,6 +64,8 @@
     <string name="enter_password">Inserisci la password</string>
     <string name="create_password">Crea password</string>
     <string name="confirm_password">Conferma la password</string>
+    <string name="create_password_description">Scegli una password per proteggere l\'app</string>
+    <string name="confirm_password_description">Conferma la password per proteggere l\'app</string>
     <string name="incorrect_password">Password non corretta</string>
     <string name="password_no_match">La password non corrispondeva</string>
     <string name="auto_backup_desc">I tuoi account saranno supportati ogni volta che l\'account viene aggiunto o modificato</string>
@@ -88,4 +90,17 @@
     <string name="keypass_backup">Backup KeyPass</string>
     <string name="google_backup">Google Backup</string>
     <string name="generate_qr_code">Esportazione</string>
+    <string name="app_desc">Open-source &amp; offline password manager. Conservare, gestire, prendere il controllo in modo sicuro.</string>
+    <string name="app_developer">Sviluppatore</string>
+    <string name="app_developer_x">X (precedentemente Twitter)</string>
+    <string name="app_developer_linkedin">LinkedIn</string>
+    <string name="about_us">Informazioni su di noi</string>
+    <string name="about_us_desc">Su di noi Desc</string>
+    <string name="source_code">Codice sorgente</string>
+    <string name="app_developer_github">Github</string>
+    <string name="keepass_backup">KeePass Backup</string>
+    <string name="keepass_backup_desc">Scegliere il file KeePass CSV per importare</string>
+    <string name="invalid_secret_key">Formato chiave segreto non valido</string>
+    <string name="invalid_csv_file">CSV non valido File</string>
+    <string name="file_not_found">File non trovato (per favore riprovare)</string>
 </resources>

@@ -1,0 +1,1 @@
+- Add About app screen, Password configuration from account detail page.

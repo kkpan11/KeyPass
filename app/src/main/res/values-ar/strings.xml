@@ -32,6 +32,8 @@
     <string name="enter_password">أدخل كلمة المرور</string>
     <string name="create_password">أنشئ كلمة مرور</string>
     <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="create_password_description">اختر كلمة مرور لتأمين التطبيق</string>
+    <string name="confirm_password_description">يرجى تأكيد كلمة المرور لتأمين التطبيق</string>
     <string name="incorrect_password">كلمة سر خاطئة</string>
     <string name="password_no_match">كلمة المرور غير متطابقة</string>
     <string name="auto_backup_desc">سيتم نسخ حساباتك احتياطيًا عند إضافة الحساب أو تعديله</string>
@@ -88,4 +90,17 @@
     <string name="keypass_backup">دعم أساسي</string>
     <string name="google_backup">Google Backup</string>
     <string name="generate_qr_code">الصادرات</string>
+    <string name="keepass_backup">دعم كيباس</string>
+    <string name="keepass_backup_desc">Choose KeePass CSV file to import</string>
+    <string name="app_desc">مُدير كلمة المرور من مصادر مفتوحة. تخزين، إدارة، السيطرة بأمان.</string>
+    <string name="about_us">بشأننا</string>
+    <string name="about_us_desc">عنا</string>
+    <string name="app_developer">المطور</string>
+    <string name="app_developer_x">X (تويتر سابقا)</string>
+    <string name="app_developer_linkedin">LinkedIn</string>
+    <string name="source_code">مدونة المصدر</string>
+    <string name="app_developer_github">Github</string>
+    <string name="invalid_secret_key">Invalid secret key format</string>
+    <string name="invalid_csv_file">Invalid CSV File</string>
+    <string name="file_not_found">الملف لم يعثر عليه (يرجى المحاولة مرة أخرى)</string>
 </resources>
